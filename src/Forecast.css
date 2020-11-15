@@ -1,0 +1,9 @@
+.forecast {
+  background-color: rgba(252, 203, 203, 0.3);
+  display: flex;
+  justify-content: center;
+  color: #ad9d9d;
+  box-shadow: 0 0 30px 30px rgba(252, 203, 203, 0.25);
+  font-family: Cambria;
+  padding:20px;
+}

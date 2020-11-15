@@ -1,0 +1,44 @@
+.searchBar {
+  color: #ad9d9d;
+  text-align: center;
+  background-color: rgba(252, 203, 203, 0.2);
+  border-width: 1px;
+  border-color: #ad9d9d solid;
+  margin: 5px;
+  border-radius:5px;
+padding:10px;
+max-width: 188px;
+max-height: 46px;
+}
+
+.button {
+  color: #ad9d9d;
+  background-color: rgba(252, 203, 203, 0.2);
+  border-width: 1px;
+  border-color: #ad9d9d solid;
+  margin: 5px;
+  border-radius:5px;
+padding:10px;
+max-width:167px;
+max-height:46px;
+}
+
+.button:hover {
+background-color:#fccbcb;
+color:#838383;
+font-style: italic;
+}
+
+.list {
+  list-style: none;
+  padding: 0px;
+}
+
+.topButtons {
+  padding: 30px;
+}
+
+.loader {
+  margin: 0 auto;
+  padding:20px;
+}
