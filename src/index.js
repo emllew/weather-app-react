@@ -8,6 +8,9 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <small className="link">
+      <a href="https://github.com/emllew/weather-app-react">Open source code </a> by Emily Llewelyn
+      </small>
   </React.StrictMode>,
   document.getElementById('root')
 );

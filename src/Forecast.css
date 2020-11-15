@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   color: #ad9d9d;
-  box-shadow: 0 0 30px 30px rgba(252, 203, 203, 0.25);
+  box-shadow: 0 0 10px 10px rgba(252, 203, 203, 0.20);
   font-family: Cambria;
   padding:20px;
 }
